@@ -17,7 +17,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-https://massoud5.github.io/Intro-Component-with-Signup-Form-Master/index.html
+
 
 
 ## My process
