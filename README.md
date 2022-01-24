@@ -37,6 +37,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### What I learned
 
+JavaScript
 
 
 
