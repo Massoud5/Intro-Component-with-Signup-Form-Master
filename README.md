@@ -42,10 +42,14 @@ JavaScript
 <<<<<<< HEAD
 This is a test;
 
+<<<<<<< HEAD
 
 =======
 This test commes from test branch
 >>>>>>> 55667bbdaea1c32ebf065ac980ea83db0e10d21c
+=======
+This test comme from main brach
+>>>>>>> d8283793f126ea80a5530e405fe242523bc444b1
 
 
 
