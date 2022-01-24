@@ -37,21 +37,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### What I learned
 
-JavaScript
-
-<<<<<<< HEAD
-This is a test;
-
-<<<<<<< HEAD
-
-=======
-This test commes from test branch
->>>>>>> 55667bbdaea1c32ebf065ac980ea83db0e10d21c
-=======
-This test comme from main brach
->>>>>>> d8283793f126ea80a5530e405fe242523bc444b1
-
-
 
 
 ### Useful resources
