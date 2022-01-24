@@ -39,9 +39,13 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 JavaScript
 
+<<<<<<< HEAD
 This is a test;
 
 
+=======
+This test commes from test branch
+>>>>>>> 55667bbdaea1c32ebf065ac980ea83db0e10d21c
 
 
 
