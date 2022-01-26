@@ -37,28 +37,29 @@
           <div class="form-group">
             <div class="field-group">            
               <label for="fname"></label>
-              <input id="fname" type="text" placeholder="First Name" name="fname">
+              <input name="fname" id="fname" type="text" placeholder="First Name" name="fname">
                 <i class="error-icon"><img src="./images/icon-error.svg" alt="error-img"></i>
                 <i class="error-text">First Name cannot be empty</i>
             </div>
   
             <div class="field-group">
               <label for="last-name"></label>
-              <input id="last-name" type="text" placeholder="Last Name" value="">
+              <input name="last-name" id="last-name" type="text" placeholder="Last Name">
                 <i class="error-icon"><img src="./images/icon-error.svg" alt="error-img"></i>
                 <i class="error-text">Last Name cannot be empty</i>
             </div>
   
             <div class="field-group">
               <label for="email"></label>
-              <input id="email" type="text" placeholder="Email Address">
+              <input name="email" id="email" type="text" placeholder="Email Address">
                 <i class="error-icon"><img src="./images/icon-error.svg" alt="error-img"></i>
-                <i class="error-text email-error">Email Address cannot be empty</i>
+                <i class="error-text" id="email-error">Email Address cannot be empty</i>
+                <i class="error-text" id="email-verify-error">Email Address is not correct</i>
             </div>
   
             <div class="field-group">
               <label for="password"></label>
-              <input id="password" type="text" placeholder="Password">
+              <input name="password" id="password" type="text" placeholder="Password">
                 <i class="error-icon"><img src="./images/icon-error.svg" alt="error-img"></i>
                 <i class="error-text">Password cannot be empty</i>
             </div>
@@ -77,14 +78,12 @@
 
   </main>
   
-  <footer>
+  <!-- <footer>
     <p class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
       Coded by <a href="#">Your Name Here</a>.
     </p>
-  </footer>
-
-  <!-- Hello World -->
+  </footer> -->
 
   <script src="action.js"></script>
 </body>
